@@ -1,8 +1,10 @@
 .featured {
   flex: 2;
-  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
   padding: 10px;
+  min-width: 250px;
 
   .top {
     display: flex;

@@ -40,8 +40,8 @@ const Widget = ({ type }) => {
           <ShoppingCartOutlinedIcon
             className="icon"
             style={{
-              color: "crimson",
-              backgroundColor: "rgba(255, 0, 0, 0.2)",
+              color: "rgb(112, 111, 15)",
+              backgroundColor: "rgba(251, 255, 0, 0.49)",
             }}
           />
         ),
@@ -56,8 +56,8 @@ const Widget = ({ type }) => {
           <MonetizationOnOutlinedIcon
             className="icon"
             style={{
-              color: "crimson",
-              backgroundColor: "rgba(255, 0, 0, 0.2)",
+              color: "rgb(0, 145, 7)",
+              backgroundColor: "rgba(0, 255, 34, 0.42)",
             }}
           />
         ),
@@ -72,8 +72,8 @@ const Widget = ({ type }) => {
           <AccountBalanceWalletOutlinedIcon
             className="icon"
             style={{
-              color: "crimson",
-              backgroundColor: "rgba(255, 0, 0, 0.2)",
+              color: "rgb(99, 0, 145)",
+              backgroundColor: "rgba(255, 0, 242, 0.25)",
             }}
           />
         ),
